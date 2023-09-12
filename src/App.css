@@ -1,3 +1,30 @@
+.content {
+  width: 500px;
+  margin: auto;
+  border: 1px solid black;
+  text-align: center;
+}
+
+div {
+  margin: 10px;
+  padding: 5px;
+}
+
+div .input {
+  margin: auto;
+  width:300px;
+}
+
+label {
+  width: 50%;
+  margin: 0 10px;
+  margin: auto;
+}
+
+input {
+  width: 50px;
+}
+
 .App {
   text-align: center;
 }
