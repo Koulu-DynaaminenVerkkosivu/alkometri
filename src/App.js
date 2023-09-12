@@ -1,3 +1,7 @@
+// Alkometri
+// Ossi Kauppi
+// TIK23KM
+
 import './App.css';
 import { useState } from 'react';
 
@@ -30,7 +34,6 @@ function App() {
     setResult(proms);
   }
   
-
   return (
     <div class="content">
       <h3>Alkometri</h3>
